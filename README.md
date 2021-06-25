@@ -2,7 +2,7 @@
 
 ## Source Data
 
-https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+https://catalog.data.gov/dataset/motor-vehicle-crashes-vehicle-information-three-year-window/resource/a37b1bb8-7652-4bad-a72b-a706c4d64f4b
 NYC Open Data - Motor Vehicle Collisions - Crashes
 
 This database uses a multitude of factors to input details on a car accident including but not limited to:
