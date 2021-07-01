@@ -25,3 +25,6 @@ Our team regularly chats via our Slack channel and regular Zoom calls.
 - Daniella Padilla: Database - creating database with provided dataset using AWS and Postgres
 - Patrick Dawson: Machine Learning - testing unsupervised model
 - Alyssa Quinn: Visualizations - created using tableau software
+
+## Presentation
+Our presentation can be found here https://cuvirtdatapt0-6b04208.slack.com/files/U01MEMNFN73/F0278G4CX6V/automotive_final_challenge.pptx
