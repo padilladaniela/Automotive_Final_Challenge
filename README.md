@@ -27,4 +27,4 @@ Our team regularly chats via our Slack channel and regular Zoom calls.
 - Alyssa Quinn: Visualizations - created using tableau software
 
 ## Presentation
-Our presentation can be found here https://cuvirtdatapt0-6b04208.slack.com/files/U01MEMNFN73/F0278G4CX6V/automotive_final_challenge.pptx
+Our presentation can be found here https://docs.google.com/presentation/d/14gNDZ2gp_kuDrsuEJMYstdQnuaJ7VWMjFmUgN9Iu3dk/edit#slide=id.p
