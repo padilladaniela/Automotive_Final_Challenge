@@ -28,3 +28,6 @@ Our team regularly chats via our Slack channel and regular Zoom calls.
 
 ## Presentation
 Our presentation can be found here https://docs.google.com/presentation/d/14gNDZ2gp_kuDrsuEJMYstdQnuaJ7VWMjFmUgN9Iu3dk/edit#slide=id.p
+
+## Dashboard
+Our dashboard and storyboard can be found here https://public.tableau.com/app/profile/alyssa.quinn/viz/AutoInsuranceFinalProject/AutoInsurance
