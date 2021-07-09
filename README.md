@@ -21,3 +21,6 @@ Our goal is to have insurance companies use this model to help determine the app
 
 ## Communication Protocols
 In order to keep updated on the status of each of our parts of the project, we message each other regularly through Slack and organized regular zoom meetings.
+
+### What make is more likely to get into an accident in NY?  
+Most of our introduction to Machine Learning involves binomial choices, we will attempt to address the first question for our dataset by applying Multinomial logit models to show the disparity between each different type of “Vehicle Make” that are involve in accident in NYC. Multinomial and Histogram are similar is some sense, but this regression addresses the likelihood that you will meet in an accident in NYC if a specific type of vehicle from a particular type of manufacturer is driven. Using histogram will on show that amount of different “Vehicle Make” that are accident which is entirely different from making a prediction that you will meet in an accident if you are driving one of the vehicles in the “Vehicle Make” column.
