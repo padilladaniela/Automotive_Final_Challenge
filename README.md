@@ -24,3 +24,60 @@ In order to keep updated on the status of each of our parts of the project, we m
 
 ### What make is more likely to get into an accident in NY?  
 Most of our introduction to Machine Learning involves binomial choices, we will attempt to address the first question for our dataset by applying Multinomial logit models to show the disparity between each different type of “Vehicle Make” that are involve in accident in NYC. Multinomial and Histogram are similar is some sense, but this regression addresses the likelihood that you will meet in an accident in NYC if a specific type of vehicle from a particular type of manufacturer is driven. Using histogram will on show that amount of different “Vehicle Make” that are accident which is entirely different from making a prediction that you will meet in an accident if you are driving one of the vehicles in the “Vehicle Make” column.
+
+### Factor that cause accidents in NYC 
+Driver Inattention/Distraction                 90426
+Following Too Closely                          60948
+Failure to Yield Right-of-Way                  52702
+Unsafe Speed                                   31081
+Animal's Action                                30983
+Backing Unsafely                               20755
+Passing or Lane Usage Improper                 20369
+Unsafe Lane Changing                           13692
+Alcohol Involvement                            11369
+Turning Improperly                             11075
+Pavement Slippery                              10272
+Traffic Control Device Disregarded              9619
+Reaction to Other Uninvolved Vehicle            9096
+Driver Inexperience*                            6846
+Other*                                          6845
+Fell Asleep                                     3944
+View Obstructed/Limited                         3709
+Passing Too Closely                             3351
+Failure to Keep Right                           2882
+Obstruction/ Debris                             2534
+Glare                                           1542
+Brakes Defective                                1507
+Tire Failure/Inadequate                         1351
+Illness                                         1275
+Drugs (Illegal)                                 1231
+Lost Consciousness                              1122
+Outside Car Distraction*                        1028
+Aggressive Driving/Road Rage                     842
+Passenger Distraction                            820
+Fatigued/Drowsy                                  789
+Steering Failure                                 760
+Oversized Vehicle                                695
+Pedestrian/Bicyclist Error/Confusion             457
+Cell Phone (hand held)                           408
+Pavement Defective                               367
+Driverless/Runaway Vehicle                       312
+Physical Disability                              271
+Accelerator Defective                            271
+Lane Marking Improper/Inadequate                 264
+Traffic Control Device Improper/Non-Working      263
+Prescription Medication                          251
+Tow Hitch Defective                               87
+Other Electronic Device*                          81
+Eating or Drinking                                71
+Other Lighting Defects                            68
+Cell Phone (hands-free)                           60
+Headlights Defective                              54
+Other                                             54
+Using On Board Navigation Device                  50
+Shoulders Defective/Improper                      36
+Texting                                           30
+Tinted Windows                                    29
+Windshield Inadequate                             23
+Vehicle Vandalism                                  2
+Listening/Using Headphones            		2
