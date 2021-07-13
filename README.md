@@ -81,3 +81,5 @@ Tinted Windows                                    29
 Windshield Inadequate                             23  
 Vehicle Vandalism                                  2  
 Listening/Using Headphones            		         2  
+
+Supervised machine learning model will try to determine who or what failed to result in most motor vehicle accident. The contributing factor 1 column which has three distinguishing reasons, human, environment and driving a defective vehicle. Since the human element is much higher than the other two (2) binning was used to reduce the column between two options, human and other. The model shows a high probability that humans are at fault 97% of the time and this explains why insurance rates are exceedingly high in a big city such as New York.  
