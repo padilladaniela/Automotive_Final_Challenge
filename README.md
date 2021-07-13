@@ -19,13 +19,6 @@ Our goal is to have insurance companies use this model to help determine the app
 - What are contributing factors that happen before an accident that may affect insurance?
 - How many accidents are caused by NY residents vs. Out of state visitors?
 
-## Communication Protocols
-Our team regularly chats via our Slack channel and regular Zoom calls.
-### Assigned Roles:
-- Daniella Padilla: Database - creating database with provided dataset using AWS and Postgres
-- Patrick Dawson: Machine Learning - testing unsupervised model
-- Alyssa Quinn: Visualizations - created using tableau software
-
 ## Presentation
 Our presentation can be found here: https://docs.google.com/presentation/d/14gNDZ2gp_kuDrsuEJMYstdQnuaJ7VWMjFmUgN9Iu3dk/edit#slide=id.p
 
