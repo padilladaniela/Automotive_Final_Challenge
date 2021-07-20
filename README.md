@@ -87,5 +87,5 @@ Supervised machine learning model will try to determine who or what failed to re
 ### Accident rate increase from 2018 to 2019  
 The use of random forest classifier to determine how much accident rates increase between both years. The Confusion Matrix show that there will be an increase in motor vehicle accident in the city. The F1 score for 2018 and 2019 are shown in the diagram.
 ![fig1](https://user-images.githubusercontent.com/78861458/126254379-31e0cf06-03a5-4c0a-bfad-5c5d060447e3.png)
-Indicates that imbalances between sensitivity and precision for our data are adequate, that is, the F1 score is not low. Distribution between but values for 2018 and 2019 car accident are not skewed entirely and gives an accuracy of 73% that more accident occur in 2019. Insurance considers this a major risk for persons seeking to have their vehicle insure in NYC and this also an additional factor for rising insurance rate in the city. 
+indicates that imbalances between sensitivity and precision for our data are adequate, that is, the F1 score is not low. Distribution between but values for 2018 and 2019 car accident are not skewed entirely and gives an accuracy of 73% that more accident occur in 2019. Insurance considers this a major risk for persons seeking to have their vehicle insure in NYC and this also an additional factor for rising insurance rate in the city. 
 
