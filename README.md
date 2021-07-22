@@ -86,6 +86,10 @@ Listening/Using Headphones            		         2
 
 Supervised machine learning model will try to determine who or what failed to result in most motor vehicle accident. The contributing factor 1 column which has three distinguishing reasons, human, environment and driving a defective vehicle. Since the human element is much higher than the other two (2) binning was used to reduce the column between two options, human and other. The model shows a high probability that humans are at fault 97% of the time and this explains why insurance rates are exceedingly high in a big city such as New York.  
 
+### Are there certain circumstances of accidents depending on location/direction of travel?
+Grouping significant events that took place just before each car accident, for example, was the driver making a left turn or going straight (which can be classified as speeding), we will try address this question. Unsupervised learning model is used in this instance to capture the common occurrence. Clustering the data will give an idea as to what can cause accidents and allow insurance company to relate this information to their policies holders on what factors avoid reducing the risk of motor vehicle accidents. K-means is an unsupervised learning algorithm used to identify and solve clustering issues, placing each common value around central point or centroid to establish which category they belong. The dataset shows fifteen different targets, but some targets are far more weighted, K-means algorithm produce only 7 clusters and this is a result distribution on the targets. 
+
+
 ### Accident rate increase from 2018 to 2019  
 The use of random forest classifier to determine how much accident rates increase between both years. The Confusion Matrix show that there will be an increase in motor vehicle accident in the city. The F1 score for 2018 and 2019 are shown in the diagram.
 ![fig1](https://user-images.githubusercontent.com/78861458/126254379-31e0cf06-03a5-4c0a-bfad-5c5d060447e3.png)
