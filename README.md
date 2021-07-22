@@ -21,6 +21,18 @@ Our goal is to have insurance companies use this model to help determine the app
 - What are contributing factors that happen before an accident that may affect insurance?
 - How many accidents are caused by NY residents vs. Out of state visitors?
 
+## Tools Utilized
+### Creating Database
+- PostgreSQL
+- Amazon Web Services (AWS)
+
+### Connecting to Database
+- SQLAlchemy, Psycopg2 module
+
+### Analyzing Data
+- Pandas
+
+
 ## Presentation
 Our presentation can be found here: https://docs.google.com/presentation/d/14gNDZ2gp_kuDrsuEJMYstdQnuaJ7VWMjFmUgN9Iu3dk/edit#slide=id.p
 
