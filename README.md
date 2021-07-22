@@ -9,6 +9,7 @@ Our goal is to have insurance companies use this model to help determine the app
 - Are there certain circumstances of accidents depending on location/direction of travel?
 - What are contributing factors that happen before an accident that may affect insurance?
 - How many accidents are caused by NY residents vs. Out of state visitors?
+- Is there a significant difference in accident rate between the 2 years?
 
 ## Source Data
 
@@ -106,6 +107,15 @@ Vehicle Vandalism                                  2
 Listening/Using Headphones            		         2  
 
 Supervised machine learning model will try to determine who or what failed to result in most motor vehicle accident. The contributing factor 1 column which has three distinguishing reasons, human, environment and driving a defective vehicle. Since the human element is much higher than the other two (2) binning was used to reduce the column between two options, human and other. The model shows a high probability that humans are at fault 97% of the time and this explains why insurance rates are exceedingly high in a big city such as New York.  
+
+### Are there certain circumstances of accidents depending on location/direction of travel?
+Grouping significant events that took place just before each car accident, for example, was the driver making a left turn or going straight (which can be classified as speeding), we will try address this question. Unsupervised learning model is used in this instance to capture the common occurrence. Clustering the data will give an idea as to what can cause accidents and allow insurance company to relate this information to their policies holders on what factors avoid reducing the risk of motor vehicle accidents. K-means is an unsupervised learning algorithm used to identify and solve clustering issues, placing each common value around central point or centroid to establish which category they belong. The dataset shows fifteen different targets, but some targets are far more weighted, K-means algorithm produce only 7 clusters and this is a result distribution of the targets. 
+
+![fig2](https://user-images.githubusercontent.com/78861458/126675445-54290233-bbeb-45a4-8c90-8240d131e619.png)
+
+The seven (7) clusters produced are the six most significant followed by everything else in the rest of the table, with class 1 showing going straight ahead, which as stated as before as speeding. And the final 3D established the grouping of the representation of what insurance companies should highlight to insurers of what not to do that may limit the rise in rate of insurance in the city.
+
+![fig3](https://user-images.githubusercontent.com/78861458/126677742-75ed84dd-79c6-455a-b0ac-90e3e3882bda.png)
 
 ### Accident rate increase from 2018 to 2019  
 The use of random forest classifier to determine how much accident rates increase between both years. The Confusion Matrix show that there will be an increase in motor vehicle accident in the city. The F1 score for 2018 and 2019 are shown in the diagram.
