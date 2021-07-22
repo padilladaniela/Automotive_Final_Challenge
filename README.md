@@ -88,6 +88,8 @@ Supervised machine learning model will try to determine who or what failed to re
 
 ### Are there certain circumstances of accidents depending on location/direction of travel?
 Grouping significant events that took place just before each car accident, for example, was the driver making a left turn or going straight (which can be classified as speeding), we will try address this question. Unsupervised learning model is used in this instance to capture the common occurrence. Clustering the data will give an idea as to what can cause accidents and allow insurance company to relate this information to their policies holders on what factors avoid reducing the risk of motor vehicle accidents. K-means is an unsupervised learning algorithm used to identify and solve clustering issues, placing each common value around central point or centroid to establish which category they belong. The dataset shows fifteen different targets, but some targets are far more weighted, K-means algorithm produce only 7 clusters and this is a result distribution on the targets. 
+![fig2](https://user-images.githubusercontent.com/78861458/126675445-54290233-bbeb-45a4-8c90-8240d131e619.png)
+
 
 
 ### Accident rate increase from 2018 to 2019  
