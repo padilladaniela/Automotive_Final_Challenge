@@ -93,6 +93,9 @@ Grouping significant events that took place just before each car accident, for e
 
 The seven (7) clusters produced are the six most significant followed by everything else in the rest of the table, with class 1 showing going straight ahead, which as stated as before as speeding. And the final 3D established the grouping of the representation of what insurance companies should highlight to insurers of what not to do that may limit the rise in rate of insurance in the city.
 
+![fig3](https://user-images.githubusercontent.com/78861458/126677742-75ed84dd-79c6-455a-b0ac-90e3e3882bda.png)
+
+
 
 
 ### Accident rate increase from 2018 to 2019  
