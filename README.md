@@ -1,5 +1,15 @@
 # Automotive_Final_Challenge
 
+## Reason for Topic
+Our goal is to have insurance companies use this model to help determine the appropriate coverages based on vehicle make and year in the state of NY.
+
+## Questions to Answer
+- What make is more likely to get into an accident in NY?
+- What were the contributing factors that were most common that may affect insuring someone in NY?
+- Are there certain circumstances of accidents depending on location/direction of travel?
+- What are contributing factors that happen before an accident that may affect insurance?
+- How many accidents are caused by NY residents vs. Out of state visitors?
+
 ## Source Data
 
  - NYC Open Data - Motor Vehicle Collisions - Crashes 
@@ -11,15 +21,6 @@ https://catalog.data.gov/dataset/motor-vehicle-crashes-vehicle-information-three
 This database uses a multitude of factors to input details on a car accident including but not limited to:
 Weather, longitutde, latitutde, severity, time and date of accident.
 
-## Reason for Topic
-Our goal is to have insurance companies use this model to help determine the appropriate coverages based on vehicle make and year in the state of NY.
-
-## Questions to Answer
-- What make is more likely to get into an accident in NY?
-- What were the contributing factors that were most common that may affect insuring someone in NY?
-- Are there certain circumstances of accidents depending on location/direction of travel?
-- What are contributing factors that happen before an accident that may affect insurance?
-- How many accidents are caused by NY residents vs. Out of state visitors?
 
 ## Tools Utilized
 ### Creating Database
